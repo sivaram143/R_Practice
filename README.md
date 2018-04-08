@@ -9,4 +9,26 @@ This Repository contains the my "R" notes and practice examples
 
 ### Examples
 
+- [Hello World](examples/hello-world.Rmd)
+- [Variables](TBD)
+- [Operators](TBD)
+- [Decision Statements](TBD)
+- [Looping Statements](TBD)
+- [Arrays](TBD)
+- [Lists](TBD)
+- [Vectors](TBD)
+- [Matrices](TBD)
+- [DataFrames](TBD)
+- [Factors](TBD)
+- [Statics Functions](TBD)
+- [Dplyr](TBD)
+- [ggplot2](TBD)
+- [Shiny](TBD)
+
+
+### References
+- [Official Site](https://www.r-project.org/)
+
+
+### Best Ebboks
 [TBD]
