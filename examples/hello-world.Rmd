@@ -1,0 +1,10 @@
+
+```{r}
+# To Print Hello world with R
+
+print("Hello World")
+print("===========")
+print("->Sivaram<-")
+
+```
+
